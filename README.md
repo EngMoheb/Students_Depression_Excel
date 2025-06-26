@@ -1,4 +1,4 @@
-# 💡 Student Depression Analysis with Excel 📊 
+# 💡Student Depression Analysis with Excel 📊 
 ![Student Depression Cover](assets/std_dep.png)
 
 **A data-driven project deep dive into the academic, lifestyle, and societal factors driving depression among students**, using Excel to uncover high-impact stressors and provide actionable recommendations.
@@ -172,7 +172,7 @@ Our Excel-driven analysis showed that **academic pressure**, **suicidal thoughts
 ## Next Steps ⏭️
 
 - **Scale to SQL:** Migrate data to a relational database for advanced querying and to overcome Excel’s row limits.  
-- **Advanced BI Tools:** Develop interactive dashboards in Power BI or Tableau to visualise real-time depression risk across cohorts.
+- **Advanced BI Tools:** Develop interactive dashboards in Power BI.
 
 ---
 
