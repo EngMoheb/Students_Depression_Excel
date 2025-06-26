@@ -169,13 +169,6 @@ Our Excel-driven analysis showed that **academic pressure**, **suicidal thoughts
 
 ---
 
-## Next Steps ⏭️
-
-- **Scale to SQL:** Migrate data to a relational database for advanced querying and to overcome Excel’s row limits.  
-- **Advanced BI Tools:** Develop interactive dashboards in Power BI.
-
----
-
 ## Contact 📬
 
 **Lead Analyst:** Eng_Ahmed_Moheb  
