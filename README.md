@@ -20,8 +20,7 @@
 8. [Conclusion 📝](#conclusion-)
 9. [What I Learned 💡](#what-i-learned-)
 10. [Tools I Used 🛠️](#tools-i-used-️)  
-11. [Next Steps ⏭️](#next-steps-️)  
-12. [Contact 📬](#contact-)
+11. [Contact 📬](#contact-)
 
 ---
 
